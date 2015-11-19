@@ -1,1 +1,1 @@
-5 times {puts "Wazzuppp"}
+5.times {puts "Wazzuppp"}
